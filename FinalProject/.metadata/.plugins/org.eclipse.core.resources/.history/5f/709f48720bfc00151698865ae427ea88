@@ -1,0 +1,15 @@
+package vendingMachine_array;
+import java.util.Scanner;
+
+public class Array {
+
+//	String newArray[2][3] ;
+	
+	String multi [][] = new String[2][3]; 
+	
+	public static void main(String[] args) {
+		
+	}
+}
+
+

@@ -1,0 +1,22 @@
+package vendingMachine;
+
+public class Sprite {
+private String drinkName;
+	
+	public Sprite(){
+		drinkName = "Pepsi";
+	}
+	
+	public Sprite(String dN){
+		drinkName = dN;
+	}
+
+	public String getDrinkName() {
+		return drinkName;
+	}
+
+	public void setDrinkName(String drinkName) {
+		this.drinkName = drinkName;
+	}
+	
+}

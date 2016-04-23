@@ -1,0 +1,20 @@
+//package vendingMachine_array;
+//import java.util.Scanner;
+//
+//public class Array {
+//
+////	String newArray[2][3] ;
+///*Array will have: {1 Sprite, 2 Pepsi, 3 diet pepsi}
+// * 				   {4 monster, 5 mountain dew, 6 water} */
+//	
+//	String multi [][] = new String[2][3]; 
+//	
+//	multi = {}
+//			{}
+	
+//	public static void main(String[] args) {
+//		
+//	}
+//}
+
+

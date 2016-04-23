@@ -1,0 +1,10 @@
+package vendingMachine_array;
+
+public class Array {
+
+//	String[2][3];
+	
+	String multi [][] = new String[2][3]; //2 dimensional array 2x3
+	
+	
+}
