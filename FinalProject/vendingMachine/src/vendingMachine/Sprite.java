@@ -13,7 +13,7 @@ private String drinkName;
 	}
 	
 	public String toString(){
-		return (super.toString() +"drink name: " + drinkName);
+		return (super.toString() +"drink name: " + drinkName + "\n");
 	}
 
 	public String getDrinkName() {

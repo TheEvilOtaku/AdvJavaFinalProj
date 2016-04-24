@@ -20,9 +20,9 @@ public class Drink {
 	
 	public String toString(){
 		String temp;
-		temp = "Drink type: "+drinkType+",  ";
-		temp += "Bottle?: "+Bottle+", ";
-		temp += "or Can?: "+Can+", ";
+		temp = "\nDrink type: "+drinkType+"\n";
+		temp += "Bottle?: "+Bottle+"\n";
+		temp += "Can?: "+Can+"\n";
 		
 		return temp;
 	}

@@ -1,5 +1,0 @@
-package vendingMachine extends Drink;
-
-public class Pepsi {
-
-}
